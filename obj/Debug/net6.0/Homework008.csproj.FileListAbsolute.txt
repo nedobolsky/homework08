@@ -1,0 +1,15 @@
+D:\GeekBrains\HomeWork\C#\Homework008\bin\Debug\net6.0\Homework008.exe
+D:\GeekBrains\HomeWork\C#\Homework008\bin\Debug\net6.0\Homework008.deps.json
+D:\GeekBrains\HomeWork\C#\Homework008\bin\Debug\net6.0\Homework008.runtimeconfig.json
+D:\GeekBrains\HomeWork\C#\Homework008\bin\Debug\net6.0\Homework008.dll
+D:\GeekBrains\HomeWork\C#\Homework008\bin\Debug\net6.0\Homework008.pdb
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\Homework008.csproj.AssemblyReference.cache
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\Homework008.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\Homework008.AssemblyInfoInputs.cache
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\Homework008.AssemblyInfo.cs
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\Homework008.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\Homework008.dll
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\refint\Homework008.dll
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\Homework008.pdb
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\Homework008.genruntimeconfig.cache
+D:\GeekBrains\HomeWork\C#\Homework008\obj\Debug\net6.0\ref\Homework008.dll
